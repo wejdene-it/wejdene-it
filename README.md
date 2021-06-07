@@ -1,5 +1,5 @@
 - 👋Bonjour, je suis Wejdene LOUHICHI
-
+![alt text](http://url/to/img.png)
 - 👀Je suis en formation **Testeur Logicile**
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
