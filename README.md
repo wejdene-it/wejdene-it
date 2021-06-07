@@ -7,6 +7,7 @@
  
  [LinkedIn](https://www.linkedin.com/in/wejdene-louhichi-b96666213)
  
+ w.louhichi@gmail.com
  
 
 <!---
