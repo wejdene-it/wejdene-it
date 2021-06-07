@@ -1,7 +1,7 @@
 - 👋Bonjour, je suis **Wejdene LOUHICHI**
 - 👀Je suis en formation **Testeur Logiciel**
 
-![photo de Wejdene LOUHICHI](https://github.com/wejdene-it/wejdene-it/blob/main/20200929_144742.jpg)
+![photo de Wejdene LOUHICHI](https://github.com/wejdene-it/wejdene-it/blob/main/20200929_144742%20(1).jpg)
 
 
  **Contact**
